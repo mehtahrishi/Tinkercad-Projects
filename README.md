@@ -1,2 +1,2 @@
 # Tinkrercad-Projects
-Just On Sofware Hardware Projects Prepared On Tinkercad
+Just On-Software Hardware Projects Prepared On Tinkercad
