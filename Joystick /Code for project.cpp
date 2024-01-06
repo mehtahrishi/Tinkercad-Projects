@@ -10,10 +10,9 @@ void setup() {
 
 void loop() {
   
-  joystick= analogRead(A0); //lecture de la tension du joystick
-    //Serial.println(joystick);
+  joystick= analogRead(A0);
   
-  led= map(joystick, 0 ,1023, 2, 12); //attribution du numéro de led
+  led= map(joystick, 0 ,1023, 2, 12);
   
   digitalWrite(led,1);
     delay(10);
