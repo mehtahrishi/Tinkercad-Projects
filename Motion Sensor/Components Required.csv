@@ -1,0 +1,5 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"PIR1",1,"-5.881658989145649 , -164.78093259305973 , -164.21663226414876  PIR Sensor"
+"D1",1,"Red LED"
+"R1",1,"1 kΩ Resistor"
